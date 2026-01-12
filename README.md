@@ -4,7 +4,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=jskh-201910840&color=d85a30&style=flat-square&label=views)](https://github.com/jskh-201910840)
 [![GitHub followers](https://img.shields.io/github/followers/jskh-201910840?style=flat-square&label=followers&color=1b1b1b)](https://github.com/jskh-201910840?tab=followers)
-[![Repos](https://img.shields.io/badge/public%20repos-4-378add?style=flat-square)](https://github.com/jskh-201910840?tab=repositories)
+[![Repos](https://img.shields.io/badge/public%20repos-8-378add?style=flat-square)](https://github.com/jskh-201910840?tab=repositories)
 
 </div>
 
@@ -31,19 +31,15 @@ Before PIAI I came through a human-centered AI program, so I still care about wh
 
 ### Projects
 
-<p align="center">
-  <a href="https://github.com/jskh-201910840/awesome-self-evolving-agents">
-    <img src="https://img.shields.io/badge/awesome--self--evolving--agents-90%2B%20papers%2C%202%20demos-d85a30?style=for-the-badge&logo=github&logoColor=white" alt="awesome-self-evolving-agents"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/jskh-201910840/teams-news">
-    <img src="https://img.shields.io/badge/teams--news-AI%20news%20to%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="teams-news"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/jskh-201910840/VoxCPM-dialect">
-    <img src="https://img.shields.io/badge/VoxCPM--dialect-Gyeongsang%20dialect%20TTS-1b1b1b?style=for-the-badge&logo=github&logoColor=white" alt="VoxCPM-dialect"/>
-  </a>
-</p>
+| | Project | Notes |
+|:---:|---------|-------|
+| 🔬 | [**awesome-self-evolving-agents**](https://github.com/jskh-201910840/awesome-self-evolving-agents) | 90+ papers · misevolution safety · runnable demos |
+| 🚌 | [**smuAIX-Basic**](https://github.com/jskh-201910840/smuAIX-Basic) | Seoul transit EDA · SMU AI+X Basic |
+| 📝 | [**InyroDjangoMentoring**](https://github.com/jskh-201910840/InyroDjangoMentoring) | Django blog · markdown · comments · auth |
+| 💰 | [**wage-recommendation-ml**](https://github.com/jskh-201910840/wage-recommendation-ml) | Part-time wage ML · SMU AI+X team project |
+| 🧩 | [**programmers-algorithm**](https://github.com/jskh-201910840/programmers-algorithm) | Programmers Lv.0–2 solutions |
+| 📰 | [**teams-news**](https://github.com/jskh-201910840/teams-news) | AI news → Microsoft Teams |
+| 🗣️ | [**VoxCPM-dialect**](https://github.com/jskh-201910840/VoxCPM-dialect) | Gyeongsang dialect TTS experiments |
 
 ---
 
