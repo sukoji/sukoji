@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b1b,100:d85a30&height=150&section=header&text=psukojim&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b1b,100:d85a30&height=150&section=header&text=sukoji&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=jskh-201910840&color=d85a30&style=flat-square&label=views)](https://github.com/jskh-201910840)
-[![GitHub followers](https://img.shields.io/github/followers/jskh-201910840?style=flat-square&label=followers&color=1b1b1b)](https://github.com/jskh-201910840?tab=followers)
-[![Repos](https://img.shields.io/badge/public%20repos-8-378add?style=flat-square)](https://github.com/jskh-201910840?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=sukoji&color=d85a30&style=flat-square&label=views)](https://github.com/sukoji)
+[![GitHub followers](https://img.shields.io/github/followers/sukoji?style=flat-square&label=followers&color=1b1b1b)](https://github.com/sukoji?tab=followers)
+[![Repos](https://img.shields.io/badge/public%20repos-12-378add?style=flat-square)](https://github.com/sukoji?tab=repositories)
 
 </div>
 
@@ -23,9 +23,9 @@ Before PIAI I came through a human-centered AI program, so I still care about wh
 
 ### What I'm working on lately
 
-- Curating [**awesome-self-evolving-agents**](https://github.com/jskh-201910840/awesome-self-evolving-agents) — papers + taxonomy + a toy misevolution demo
+- Curating [**awesome-self-evolving-agents**](https://github.com/sukoji/awesome-self-evolving-agents) — papers + taxonomy + a toy misevolution demo
 - Agents that **learn the wrong lesson** from their own feedback (misevolution, write-gates, re-anchoring — the boring safety stuff)
-- Side projects: a [**Teams news bot**](https://github.com/jskh-201910840/teams-news), [**dialect TTS**](https://github.com/jskh-201910840/VoxCPM-dialect) experiments
+- Side projects: a [**Teams news bot**](https://github.com/sukoji/teams-news), [**dialect TTS**](https://github.com/sukoji/VoxCPM-dialect) experiments
 
 ---
 
@@ -33,13 +33,13 @@ Before PIAI I came through a human-centered AI program, so I still care about wh
 
 | | Project | Notes |
 |:---:|---------|-------|
-| 🔬 | [**awesome-self-evolving-agents**](https://github.com/jskh-201910840/awesome-self-evolving-agents) | 90+ papers · misevolution safety · runnable demos |
-| 🚌 | [**smuAIX-Basic**](https://github.com/jskh-201910840/smuAIX-Basic) | Seoul transit EDA · SMU AI+X Basic |
-| 📝 | [**InyroDjangoMentoring**](https://github.com/jskh-201910840/InyroDjangoMentoring) | Django blog · markdown · comments · auth |
-| 💰 | [**wage-recommendation-ml**](https://github.com/jskh-201910840/wage-recommendation-ml) | Part-time wage ML · SMU AI+X team project |
-| 🧩 | [**programmers-algorithm**](https://github.com/jskh-201910840/programmers-algorithm) | Programmers Lv.0–2 solutions |
-| 📰 | [**teams-news**](https://github.com/jskh-201910840/teams-news) | AI news → Microsoft Teams |
-| 🗣️ | [**VoxCPM-dialect**](https://github.com/jskh-201910840/VoxCPM-dialect) | Gyeongsang dialect TTS experiments |
+| 🔬 | [**awesome-self-evolving-agents**](https://github.com/sukoji/awesome-self-evolving-agents) | 90+ papers · misevolution safety · runnable demos |
+| 🚌 | [**smuAIX-Basic**](https://github.com/sukoji/smuAIX-Basic) | Seoul transit EDA · SMU AI+X Basic |
+| 📝 | [**InyroDjangoMentoring**](https://github.com/sukoji/InyroDjangoMentoring) | Django blog · markdown · comments · auth |
+| 💰 | [**wage-recommendation-ml**](https://github.com/sukoji/wage-recommendation-ml) | Part-time wage ML · SMU AI+X team project |
+| 🧩 | [**programmers-algorithm**](https://github.com/sukoji/programmers-algorithm) | Programmers Lv.0–2 solutions |
+| 📰 | [**teams-news**](https://github.com/sukoji/teams-news) | AI news → Microsoft Teams |
+| 🗣️ | [**VoxCPM-dialect**](https://github.com/sukoji/VoxCPM-dialect) | Gyeongsang dialect TTS experiments |
 
 ---
 
@@ -54,11 +54,11 @@ Before PIAI I came through a human-centered AI program, so I still care about wh
 ### GitHub activity
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jskh-201910840&theme=tokyonight" alt="GitHub stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jskh-201910840&theme=tokyonight" alt="Top languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sukoji&theme=tokyonight" alt="GitHub stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukoji&theme=tokyonight" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jskh-201910840&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sukoji&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
