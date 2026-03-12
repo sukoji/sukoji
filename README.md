@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b1b,100:d85a30&height=150&section=header&text=sukoji&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b1b,100:d85a30&height=150&section=header&text=Sukoji&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
 
 [![Profile views](https://komarev.com/ghpvc/?username=sukoji&color=d85a30&style=flat-square&label=views)](https://github.com/sukoji)
 [![GitHub followers](https://img.shields.io/github/followers/sukoji?style=flat-square&label=followers&color=1b1b1b)](https://github.com/sukoji?tab=followers)
@@ -12,7 +12,7 @@
 
 ### About
 
-**Sangmyung Univ.** · Human-Centered AI Engineering (휴먼AI공학)  
+**Sangmyung Univ.** · Human-Centered AI Engineering  
 **Now** · researcher at [POSTECH Institute for Artificial Intelligence (PIAI)](https://piai.postech.ac.kr/english)
 
 Developer and researcher who likes staying close to where agents are going — multi-agent setups, eval harnesses, tool use, the plumbing around all of it. I spend a fair amount of time reading papers, following what actually changes vs. what just got rebranded, and writing small code when I need to see if something holds up.
