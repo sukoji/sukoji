@@ -4,7 +4,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=sukoji&color=d85a30&style=flat-square&label=views)](https://github.com/sukoji)
 [![GitHub followers](https://img.shields.io/github/followers/sukoji?style=flat-square&label=followers&color=1b1b1b)](https://github.com/sukoji?tab=followers)
-[![Repos](https://img.shields.io/badge/public%20repos-12-378add?style=flat-square)](https://github.com/sukoji?tab=repositories)
+[![Repos](https://img.shields.io/badge/public%20repos-13-378add?style=flat-square)](https://github.com/sukoji?tab=repositories)
 
 </div>
 
@@ -24,6 +24,7 @@ Human-centered AI background, so I still notice when a system would be hard to t
 ### What I'm working on lately
 
 - Agent stack trends: orchestration, harnesses/benchmarks, memory & tool routing
+- [**symPO**](https://github.com/sukoji/sympo) — multi-agent PRD→WBS orchestration, eval harness, backbone/RAG ablations
 - Dialect speech at PIAI — [**VoxCPM-dialect**](https://github.com/sukoji/VoxCPM-dialect), [**korean-dialect-pipeline**](https://github.com/sukoji/korean-dialect-pipeline)
 - Paper reading maps & runnable notes, e.g. [**awesome-self-evolving-agents**](https://github.com/sukoji/awesome-self-evolving-agents)
 
@@ -34,6 +35,7 @@ Human-centered AI background, so I still notice when a system would be hard to t
 | | Project | Notes |
 |:---:|---------|-------|
 | 🔬 | [**awesome-self-evolving-agents**](https://github.com/sukoji/awesome-self-evolving-agents) | 90+ papers · misevolution safety · runnable demos |
+| 🤝 | [**sympo**](https://github.com/sukoji/sympo) | PRD→WBS multi-agent debate · LangGraph · ablations · human eval |
 | 🗣️ | [**VoxCPM-dialect**](https://github.com/sukoji/VoxCPM-dialect) | Gyeongsang dialect TTS · VoxCPM fine-tuning |
 | 🎙️ | [**korean-dialect-pipeline**](https://github.com/sukoji/korean-dialect-pipeline) | Dialect corpus → synthesis pipeline |
 | 📰 | [**teams-news**](https://github.com/sukoji/teams-news) | AI/tech news → Microsoft Teams (daily bot) |
