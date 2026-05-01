@@ -56,7 +56,7 @@ Human-centered AI background, so I still notice when a system would be hard to t
 ### Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,pytorch,docker,git,github,vscode,linux&perline=9" height="32" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,pytorch,docker,git,github,vscode,linux&perline=9" alt="tech stack"/>
 </p>
 
 ---
@@ -64,17 +64,13 @@ Human-centered AI background, so I still notice when a system would be hard to t
 ### GitHub activity
 
 <p align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=sukoji&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=d85a30&icon_color=d85a30&text_color=c9d1d9&hide=issues,prs&card_width=300" alt="GitHub stats"/>
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukoji&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=d85a30&text_color=c9d1d9&langs_count=4&card_width=260" alt="Top languages"/>
-  <img height="158" src="https://streak-stats.demolab.com/?user=sukoji&theme=transparent&hide_border=true&background=0D1117&stroke=30363D&ring=d85a30&fire=d85a30&currStreakLabel=d85a30&sideLabels=c9d1d9&dates=8b949e&card_width=300" alt="GitHub streak"/>
+  <img height="125" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sukoji&theme=tokyonight" alt="GitHub stats"/>
+  <img height="125" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukoji&theme=tokyonight" alt="Top languages"/>
+  <img height="125" src="https://streak-stats.demolab.com/?user=sukoji&theme=tokyonight&hide_border=true&card_width=340" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img height="110" src="https://github-readme-activity-graph.vercel.app/graph?username=sukoji&theme=react&hide_border=true&bg_color=0d1117&color=d85a30&line=c9d1d9&point=d85a30&area=true&custom_title=Contribution%20graph" alt="Contribution graph"/>
-</p>
-
-<p align="center">
-  <img height="72" src="https://github-profile-trophy.vercel.app/?username=sukoji&theme=darkhub&column=5&margin-w=6&margin-h=6&no-bg=true&no-frame=true" alt="GitHub achievements"/>
+  <img width="92%" height="100" src="https://github-readme-activity-graph.vercel.app/graph?username=sukoji&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Contribution graph"/>
 </p>
 
 ---
