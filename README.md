@@ -95,5 +95,5 @@ Human-centered AI background, so I still notice when a system would be hard to t
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d85a30,100:1b1b1b&height=70&section=footer&fontSize=18&text=thanks%20for%20stopping%20by&fontColor=1b1b1b&stroke=d85a30&strokeWidth=1" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d85a30,100:1b1b1b&height=70&section=footer&fontSize=18&text=thanks%20for%20stopping%20by&fontColor=ffffff" alt="footer"/>
 </div>
