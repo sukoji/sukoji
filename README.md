@@ -37,11 +37,14 @@ Human-centered AI background, so I still notice when a system would be hard to t
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sukoji&theme=tokyonight" alt="GitHub stats"/>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukoji&theme=tokyonight" alt="Top languages"/>
+    </td>
+    <td width="33.3%" valign="top">
+      <img width="100%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-summary-compact.svg" alt="Agent token usage via token-stack"/>
     </td>
   </tr>
 </table>
