@@ -1,6 +1,7 @@
 # Sukoji
 
 **Research Intern** · [POSTECH Institute for Artificial Intelligence (PIAI)](https://piai.postech.ac.kr/english)  
+**Researcher** (prev.) · [Human-Centered AI Center (HCAC)](https://hcac.kr/ko/)  
 **Human-Centered AI Engineering** · Sangmyung University
 
 Developer and researcher who likes staying close to where agents are going — multi-agent setups, eval harnesses, tool use, the plumbing around all of it. I spend a fair amount of time reading papers, following what actually changes vs. what just got rebranded, and writing small code when I need to see if something holds up.
