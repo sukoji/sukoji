@@ -83,6 +83,27 @@ Human-centered AI background, so I still notice when a system would be hard to t
 
 ---
 
+### Agent token usage
+
+Live from my local Claude Code sessions via [**token-stack**](https://github.com/sukoji/token-stack) — animated SVG straight out of a gist, no server behind it.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-summary.svg" alt="token usage summary"/>
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-models.svg" alt="token usage by model"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img width="100%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-activity.svg" alt="token activity, last 30 days"/>
+</p>
+
+---
+
 ### Contact
 
 <p align="center">
