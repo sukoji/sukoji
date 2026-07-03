@@ -1,4 +1,13 @@
-# Sukojin
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b1b,100:d85a30&height=130&section=header&text=Sukoji&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="header"/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=sukoji&color=d85a30&style=flat-square&label=views)](https://github.com/sukoji)
+[![GitHub followers](https://img.shields.io/github/followers/sukoji?style=flat-square&label=followers&color=1b1b1b)](https://github.com/sukoji?tab=followers)
+
+</div>
+
+ (Restore header banner; keep HCAC career lines)
 
 **Research Intern** · [POSTECH Institute for Artificial Intelligence (PIAI)](https://piai.postech.ac.kr/english) · 2026–  
 **Researcher** · [Human-Centered AI Center (HCAC)](https://hcac.kr/ko/) · 2024–2025  
