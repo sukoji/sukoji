@@ -7,7 +7,6 @@
 
 </div>
 
- (Restore header banner; keep HCAC career lines)
 
 **Research Intern** · [POSTECH Institute for Artificial Intelligence (PIAI)](https://piai.postech.ac.kr/english) · 2026–  
 **Researcher** · [Human-Centered AI Center (HCAC)](https://hcac.kr/ko/) · 2024–2025  
