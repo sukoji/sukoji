@@ -5,6 +5,12 @@
 [![Profile views](https://komarev.com/ghpvc/?username=sukoji&color=d85a30&style=flat-square&label=views)](https://github.com/sukoji)
 [![GitHub followers](https://img.shields.io/github/followers/sukoji?style=flat-square&label=followers&color=1b1b1b)](https://github.com/sukoji?tab=followers)
 
+<br/>
+
+<a href="https://sukoji.github.io">
+  <img src="https://img.shields.io/badge/Blog-sukoji.github.io-2a6b5e?style=for-the-badge&logo=readme&logoColor=white" alt="Blog — CV, papers & notes"/>
+</a>
+
 </div>
 
 
@@ -68,6 +74,9 @@ Human-centered AI background, so I still notice when a system would be hard to t
 ### Contact
 
 <p align="center">
+  <a href="https://sukoji.github.io">
+    <img height="28" src="https://img.shields.io/badge/Blog-sukoji.github.io-2a6b5e?style=flat-square&logo=readme&logoColor=white" alt="Blog"/>
+  </a>
   <a href="mailto:tirgh2192@gmail.com">
     <img height="28" src="https://img.shields.io/badge/Email-me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
