@@ -2,14 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b1b,100:d85a30&height=130&section=header&text=Sukojin&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="header"/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=sukoji&color=d85a30&style=flat-square&label=views)](https://github.com/sukoji)
-[![GitHub followers](https://img.shields.io/github/followers/sukoji?style=flat-square&label=followers&color=1b1b1b)](https://github.com/sukoji?tab=followers)
-
-<br/>
-
-<a href="https://sukoji.github.io">
-  <img src="https://img.shields.io/badge/Blog-sukoji.github.io-2a6b5e?style=for-the-badge&logo=readme&logoColor=white" alt="Blog — CV, papers & notes"/>
-</a>
+<p>
+  <a href="https://github.com/sukoji"><img height="28" src="https://komarev.com/ghpvc/?username=sukoji&color=d85a30&style=flat-square&label=views" alt="Profile views"/></a>
+  <a href="https://github.com/sukoji?tab=followers"><img height="28" src="https://img.shields.io/github/followers/sukoji?style=flat-square&label=followers&color=1b1b1b" alt="GitHub followers"/></a>
+  <a href="https://sukoji.github.io"><img height="28" src="https://img.shields.io/badge/blog-sukoji.github.io-2a6b5e?style=flat-square&logo=github&logoColor=white" alt="Blog"/></a>
+</p>
 
 </div>
 
@@ -74,11 +71,11 @@ Human-centered AI background, so I still notice when a system would be hard to t
 ### Contact
 
 <p align="center">
-  <a href="https://sukoji.github.io">
-    <img height="28" src="https://img.shields.io/badge/Blog-sukoji.github.io-2a6b5e?style=flat-square&logo=readme&logoColor=white" alt="Blog"/>
+  <a href="mailto:tjrgh2192@postech.ac.kr">
+    <img height="28" src="https://img.shields.io/badge/email-tjrgh2192@postech.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="mailto:tirgh2192@gmail.com">
-    <img height="28" src="https://img.shields.io/badge/Email-me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/sukoji">
+    <img height="28" src="https://img.shields.io/badge/GitHub-sukoji-1b1b1b?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://piai.postech.ac.kr/english">
     <img height="28" src="https://img.shields.io/badge/PIAI-POSTECH-8a63d2?style=flat-square" alt="PIAI"/>
