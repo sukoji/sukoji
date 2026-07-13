@@ -11,7 +11,7 @@
 </div>
 
 
-**Research Intern** · [POSTECH Institute for Artificial Intelligence](https://piai.postech.ac.kr/english) · 2026–  
+**Researcher** · [POSTECH Institute for Artificial Intelligence](https://piai.postech.ac.kr/english) · 2026–  
 **Researcher** · [Human-Centered AI Center (HCAC)](https://hcac.kr/ko/) · 2024–2025  
 **Human-Centered AI Engineering** · Sangmyung University · 2019–2025
 
