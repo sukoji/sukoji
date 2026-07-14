@@ -55,7 +55,7 @@ Human-centered AI background, so I still notice when a system would be hard to t
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sukoji&theme=transparent&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=565f89&point=7aa2f7&area=true&height=210&custom_title=Contribution%20graph" alt="Contribution graph"/>
+  <img width="100%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-activity.svg" alt="30-day token activity skyline via token-stack"/>
 </p>
 
 ---
