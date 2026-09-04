@@ -51,11 +51,11 @@ Human-centered AI background, so I still notice when a system would be hard to t
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sukoji&theme=tokyonight" alt="GitHub stats"/>
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukoji&theme=tokyonight" alt="Top languages"/>
-  <img width="32%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-summary-compact.svg" alt="Agent token usage via token-stack"/>
+  <a href="https://github.com/sukoji/token-stack"><img width="32%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-summary-compact.svg" alt="Agent token usage via token-stack"/></a>
 </p>
 
 <p align="center">
-  <img width="96%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-activity.svg" alt="30-day token activity skyline via token-stack"/>
+  <a href="https://github.com/sukoji/token-stack"><img width="96%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-activity.svg" alt="30-day token activity skyline via token-stack"/></a>
 </p>
 
 ---
