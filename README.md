@@ -6,6 +6,7 @@
   <a href="https://github.com/sukoji"><img height="28" src="https://komarev.com/ghpvc/?username=sukoji&color=d85a30&style=flat-square&label=views" alt="Profile views"/></a>
   <a href="https://github.com/sukoji?tab=followers"><img height="28" src="https://img.shields.io/github/followers/sukoji?style=flat-square&label=followers&color=1b1b1b" alt="GitHub followers"/></a>
   <a href="https://sukoji.github.io"><img height="28" src="https://img.shields.io/badge/blog-sukoji.github.io-2a6b5e?style=flat-square&logo=github&logoColor=white" alt="Blog"/></a>
+  <a href="https://sukoji.github.io/cv/"><img height="28" src="https://img.shields.io/badge/CV-1b1b1b?style=flat-square" alt="CV"/></a>
 </p>
 
 </div>
